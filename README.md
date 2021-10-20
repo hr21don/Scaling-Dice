@@ -7,3 +7,8 @@ MCS uses random sampling to evaluate possible outcomes.
 * Your program should simulate rolling dice over and over to see how many times each outcome occurs and then determine the probabilities based on that.
 * You'll need to simulate a really large number of rolls to get a result that's statistically significant. 
 
+## Input
+Variable Number of Arguments for sides of dice. 
+
+## Output 
+Table of probability for each possible outcome. 
